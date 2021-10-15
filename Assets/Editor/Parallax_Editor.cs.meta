@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 36112549c77ba4a2fa2dff40a275e189
+labels:
+- Infinite
+- PVZ
+- Texture
+- PixelPerfect
+- Scale
+- Editor
+- Horizontal
+- Vertical
+- VZ
+- Scroll
+- TextureOffset
+- Parallax
+- ParallaxScrolling
+- Scrolling
+- ScrollingBackground
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

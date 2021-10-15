@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5c3628cfd52964f2cad7ff422f7b7bbb
+labels:
+- PVZ
+- Texture
+- Horizontal
+- Vertical
+- Depth
+- Moving
+- Background
+- RepeatingBackground
+- Repeating
+- VZ
+- Scroll
+- CameraFollow
+- ScrollingBackground
+- Scrolling
+- ParallaxScrolling
+- Parallax
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: a598467359f6a454080cc4be59f0d9c1
+labels:
+- Parallax
+- ParallaxScrolling
+- Scrolling
+- ScrollingBackground
+- TextureOffset
+- Scroll
+- VZ
+- Repeating
+- RepeatingBackground
+- Background
+- Moving
+- Depth
+- Vertical
+- Horizontal
+- Scale
+- PixelPerfect
+- Texture
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cd06a8b677e694b10a393798450f1b5e
+labels:
+- Parallax
+- ParallaxScrolling
+- Scrolling
+- ScrollingBackground
+- CameraFollow
+- Scroll
+- VZ
+- Repeating
+- RepeatingBackground
+- Background
+- Moving
+- Depth
+- Vertical
+- Horizontal
+- Texture
+- PVZ
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
