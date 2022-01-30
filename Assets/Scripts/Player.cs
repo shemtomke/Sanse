@@ -61,7 +61,7 @@ public class Player : MonoBehaviour
     {
         rbody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        collectedTusker = 0;
+        collectedTusker = 0; 
         StartCoroutine(Countdown());
         ismove = false;
         isdead = false;
